@@ -100,7 +100,6 @@ C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\android\assets\System.X
 C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\res\drawable\tak_8ur_icon.ico
-C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\linksrc\App1.Android.pdb
-C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\linksrc\App1.dll.mdb
-C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
-C:\I4PRJ4\App1\App1\App1.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\vikto\source\repos\I4SWD\App1\App1\App1.Android\obj\Debug\MonoAndroid81\App1.Android.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\I4SWD\App1\App1\App1.Android\obj\Debug\MonoAndroid81\App1.Android.dll
+C:\Users\vikto\source\repos\I4SWD\App1\App1\App1.Android\obj\Debug\MonoAndroid81\App1.Android.pdb
