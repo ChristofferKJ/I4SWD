@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage"
+             BackgroundColor="Orange">
+
+    <Grid Padding="55">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="138"/>
+            <RowDefinition Height="138"/>
+            <RowDefinition Height="138"/>
+
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Text="Indstillinger" Grid.Row="0" Grid.Column="1" />
+        <Button Text="Quiz"  Grid.Row="0" Grid.Column="0" />
+        <Button Clicked="Hiscore_Clicked" Text="Hiscore"  Grid.Row="1" Grid.Column="1" />
+        <Button Text="Spil" Grid.Row="1" Grid.Column="0" />
+        <Button Text="Om os" Grid.Row="2" Grid.Column="1" />
+        <Button Text="Om dig?" Grid.Row="2" Grid.Column="0" />
+
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\I4PRJ4\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\I4PRJ4\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\I4PRJ4\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.Properties.Resources.resources
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\View\HiscoreWindow.xaml.g.cs
+C:\I4PRJ4\App1\App1\App1\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
